@@ -9,7 +9,7 @@ This is a university laboratory work for [Computer networks and internet technol
 **Additional features:**
 1. Receive reports on how much time has been recorded during a given time period with desired wind strength, wind direction, air temperature.
  
-This web application uses LARAVEL framework and uses public **METEO API** and private **GISMETEO API** with a workaround (web scraping) to get weather information for 5 regions.
+This web application uses **LARAVEL** framework and uses public **METEO API** and private **GISMETEO API** with a workaround (web scraping) to get weather information for 5 regions.
 
 User can get weather forcast for different regions by selected request parameters.
 Moder can switch weather forecast API provider.
